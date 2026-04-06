@@ -71,7 +71,7 @@ This analysis provides valuable insights into restaurant performance, customer p
 ---
 
 ## 📌 Author
-**Thanesh S**  
+**Syed Zohaib Karim**  
 Internship Project – Restaurant Data Analysis  
 
 ---
